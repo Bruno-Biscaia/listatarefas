@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+this project is hosted on Vercel.
+Access at: https://listatarefas-sigma.vercel.app/
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
